@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "62e73d0457e3cbdfb23ae2cbe0fe29c9",
+    "revision": "3c195a1dad42b2e2688309fad714673f",
     "url": "/laloupe-092019-projet2-vlf-crew/index.html"
   },
   {
-    "revision": "9da05f6d71919bfe2776",
+    "revision": "f481e056399a2f244d61",
     "url": "/laloupe-092019-projet2-vlf-crew/static/css/main.23a2e7e0.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/laloupe-092019-projet2-vlf-crew/static/js/2.20bacb29.chunk.js"
   },
   {
-    "revision": "9da05f6d71919bfe2776",
-    "url": "/laloupe-092019-projet2-vlf-crew/static/js/main.6c753e3d.chunk.js"
+    "revision": "f481e056399a2f244d61",
+    "url": "/laloupe-092019-projet2-vlf-crew/static/js/main.4ee94ac6.chunk.js"
   },
   {
     "revision": "ab37da5d6092151ece83",
