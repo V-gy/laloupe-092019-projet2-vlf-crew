@@ -8,7 +8,7 @@ class Footer extends React.Component {
                 <nav>
                     <header class="header">
                         <a href="/laloupe-092019-projet2-vlf-crew/#/" className="brandlogo"><img src="./logo.png" height="35px" alt="pizzalogo" /></a>
-                        <a href="/" className="brand">Spacelties</a>
+                        <a href="/laloupe-092019-projet2-vlf-crew/#/" className="brand">Spacelties</a>
                         <input className="menu-btn" type="checkbox" id="menu-btn" />
                         <label className="menu-icon" for="menu-btn"><span className="navicon"></span></label>
                         <ul className="menu">
