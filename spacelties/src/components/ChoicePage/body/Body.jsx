@@ -69,7 +69,7 @@ class Body extends React.Component {
                         </Card>
                     </Accordion>
                     <div className="divbut">
-                        <a href="laloupe-092019-projet2-vlf-crew/#/Result"><button>Go !</button></a>
+                        <a href="#/Result"><button>Go !</button></a>
                     </div>
                 </div>
             </div>
