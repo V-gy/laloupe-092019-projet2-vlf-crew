@@ -19,7 +19,7 @@ class Body extends React.Component {
                     </div>
 
                     <div className='div-button lg-12 md-12 sm-12'>
-                        <a href="/ChoicePage"><button className="glow-on-hover">Get Started</button></a>
+                        <a href="/#/ChoicePage"><button className="glow-on-hover">Get Started</button></a>
                     </div>
 
                 </div>

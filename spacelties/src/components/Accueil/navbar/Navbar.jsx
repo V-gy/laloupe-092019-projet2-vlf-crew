@@ -12,8 +12,8 @@ class Footer extends React.Component {
                         <input className="menu-btn" type="checkbox" id="menu-btn" />
                         <label className="menu-icon" for="menu-btn"><span className="navicon"></span></label>
                         <ul className="menu">
-                            <li><a href="/ChoicePage">I Want to Choose</a></li>
-                            <li><a href="/Result">Surprise Me !</a></li>
+                            <li><a href="/#/ChoicePage">I Want to Choose</a></li>
+                            <li><a href="/#/Result">Surprise Me !</a></li>
                             <li><a href="/">Contact</a></li>
                         </ul>
                     </header>

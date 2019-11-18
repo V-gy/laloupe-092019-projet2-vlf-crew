@@ -7,21 +7,21 @@ class Footer extends React.Component {
             <footer className="footer row lg-12 md-12 sm-12">
 
                 <div className="link lg-4 md-4 sm-12">
-                    <a href="/About">About us</a>
-                    <a href="/Form">Contact us</a>
+                    <a href="/#/About">About us</a>
+                    <a href="/#/Form">Contact us</a>
                 </div>
 
                 <div className="logos-sociaux lg-4 md-4 sm-12">
                     <div>
-                        <a href="/Facebook"><img src="https://i.imgur.com/rARGmDK.png" alt="facebook_link" /></a>
+                        <a href="/#/Facebook"><img src="https://i.imgur.com/rARGmDK.png" alt="facebook_link" /></a>
                     </div>
                     <div>
-                        <a href="/Easy"><img src="https://i.imgur.com/upmtJle.png" alt="easy_logo" /></a>
-                        <a href="/Future"><img src="https://i.imgur.com/EAtgUo3.png" alt="future_logo" /></a>
-                        <a href="/Snakes"><img src="https://i.imgur.com/HVpx8yf.png" alt="snakes_logo" /></a>
+                        <a href="/#/Easy"><img src="https://i.imgur.com/upmtJle.png" alt="easy_logo" /></a>
+                        <a href="/#/Future"><img src="https://i.imgur.com/EAtgUo3.png" alt="future_logo" /></a>
+                        <a href="/#/Snakes"><img src="https://i.imgur.com/HVpx8yf.png" alt="snakes_logo" /></a>
                     </div>
                     <div>
-                        <a href="/Trajetoria"><img src="https://i.imgur.com/Dce34lP.png" alt="trajectoria_logo" /></a>
+                        <a href="/#/Trajetoria"><img src="https://i.imgur.com/Dce34lP.png" alt="trajectoria_logo" /></a>
                     </div>
                 </div>
 

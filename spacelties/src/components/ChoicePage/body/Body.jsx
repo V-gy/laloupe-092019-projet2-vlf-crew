@@ -69,7 +69,7 @@ class Body extends React.Component {
                         </Card>
                     </Accordion>
                     <div className="divbut">
-                        <a href="/Result"><button>Go !</button></a>
+                        <a href="/#/Result"><button>Go !</button></a>
                     </div>
                 </div>
             </div>
