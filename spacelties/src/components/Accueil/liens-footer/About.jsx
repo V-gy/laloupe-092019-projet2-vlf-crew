@@ -9,10 +9,9 @@ class About extends React.Component {
         return (
             <div class="afoot lg-12 md-12 sm-12">
                 <Navbar />
-                <a href="/"><img src="../logo.png" alt="trajetoria_link" class="row lg-12 md-12 sm-12" /></a>
                 <form class="row lg-12 md-12 sm-12" action="wait">
-                    <h1 class="row lg-12 md-12 sm-12">And now,</h1>
-                    <h3 class="row lg-12 md-12 sm-12">Speak about-you for your customers</h3>
+                    <h1 class="row lg-12 md-12 sm-12 about">We are now in the 3rd millenium</h1>
+                    <h3 class="row lg-12 md-12 sm-12 about2">As we can travel everywhere in the outer space, Spacelties proposes some destinations to eat what you want, where you want.</h3>
                 </form>
                 <Footer />
             </div>

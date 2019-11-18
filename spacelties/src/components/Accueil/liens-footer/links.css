@@ -40,27 +40,30 @@ button {
     height: 3vw;
     width: 15vw;
     border-radius: 25%;
-}
+}*/
 
-h1 {
-    font-size: 15vw;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    margin: 10vw;
-}
-
-h2 {
+.about {
     font-size: 7vw;
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin: 0;
+    text-align: center;
+    margin: 10vw;
 }
 
-h3 {
+.about2 {
+    font-size: 4vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 7vw;
+    margin-top: 0;
+}
+
+/*h3 {
     font-size: 5vw;
     display: flex;
     flex-direction: row;
