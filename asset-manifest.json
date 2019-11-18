@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/laloupe-092019-projet2-vlf-crew/static/css/main.23a2e7e0.chunk.css",
-    "main.js": "/laloupe-092019-projet2-vlf-crew/static/js/main.610940a2.chunk.js",
-    "main.js.map": "/laloupe-092019-projet2-vlf-crew/static/js/main.610940a2.chunk.js.map",
+    "main.js": "/laloupe-092019-projet2-vlf-crew/static/js/main.6c753e3d.chunk.js",
+    "main.js.map": "/laloupe-092019-projet2-vlf-crew/static/js/main.6c753e3d.chunk.js.map",
     "runtime-main.js": "/laloupe-092019-projet2-vlf-crew/static/js/runtime-main.a10bb734.js",
     "runtime-main.js.map": "/laloupe-092019-projet2-vlf-crew/static/js/runtime-main.a10bb734.js.map",
     "static/js/2.20bacb29.chunk.js": "/laloupe-092019-projet2-vlf-crew/static/js/2.20bacb29.chunk.js",
     "static/js/2.20bacb29.chunk.js.map": "/laloupe-092019-projet2-vlf-crew/static/js/2.20bacb29.chunk.js.map",
     "index.html": "/laloupe-092019-projet2-vlf-crew/index.html",
-    "precache-manifest.f75eb5cd4a5f86bc4d0176510009ee45.js": "/laloupe-092019-projet2-vlf-crew/precache-manifest.f75eb5cd4a5f86bc4d0176510009ee45.js",
+    "precache-manifest.621e7cc436c62c912e5de032637eb84e.js": "/laloupe-092019-projet2-vlf-crew/precache-manifest.621e7cc436c62c912e5de032637eb84e.js",
     "service-worker.js": "/laloupe-092019-projet2-vlf-crew/service-worker.js",
     "static/css/main.23a2e7e0.chunk.css.map": "/laloupe-092019-projet2-vlf-crew/static/css/main.23a2e7e0.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.a10bb734.js",
     "static/js/2.20bacb29.chunk.js",
     "static/css/main.23a2e7e0.chunk.css",
-    "static/js/main.610940a2.chunk.js"
+    "static/js/main.6c753e3d.chunk.js"
   ]
 }

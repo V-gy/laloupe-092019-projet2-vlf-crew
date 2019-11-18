@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/laloupe-092019-projet2-vlf-crew/precache-manifest.f75eb5cd4a5f86bc4d0176510009ee45.js"
+  "/laloupe-092019-projet2-vlf-crew/precache-manifest.621e7cc436c62c912e5de032637eb84e.js"
 );
 
 self.addEventListener('message', (event) => {
